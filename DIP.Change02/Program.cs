@@ -6,7 +6,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-//4. Refactoring using DIP  - Abstracting remaining dependencies
+//4. Refactoring using DIP  - Abstracting Remaining Dependencies
 namespace DIP.Change02
 {
     internal class Program

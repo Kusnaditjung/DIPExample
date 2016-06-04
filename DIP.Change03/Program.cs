@@ -6,7 +6,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-//4. Refactoring using DIP - Creating class composition root
+//4. Refactoring using DIP - Configure Class Composition
 namespace DIP.Change03
 {
     internal class Program
